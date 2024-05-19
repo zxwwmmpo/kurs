@@ -1,0 +1,17 @@
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\bin\Debug\net7.0-windows\InsertionSearchArray.exe
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\bin\Debug\net7.0-windows\InsertionSearchArray.deps.json
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\bin\Debug\net7.0-windows\InsertionSearchArray.runtimeconfig.json
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\bin\Debug\net7.0-windows\InsertionSearchArray.dll
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\bin\Debug\net7.0-windows\InsertionSearchArray.pdb
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.csproj.GenerateResource.cache
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.AssemblyInfoInputs.cache
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.AssemblyInfo.cs
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.csproj.CoreCompileInputs.cache
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.dll
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\refint\InsertionSearchArray.dll
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.pdb
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.genruntimeconfig.cache
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\ref\InsertionSearchArray.dll
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.MainForm.resources
+C:\Users\vkobi\source\repos\InsertionSearchArray\InsertionSearchArray\obj\Debug\net7.0-windows\InsertionSearchArray.Initial.resources
